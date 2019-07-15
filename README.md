@@ -28,17 +28,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Content
 
-Basics
-Component & data bindings
-Directives
-Services & Dependency injection
-Routing
-Observables
-Forms
-Pipes
-Http
-Authentication
-Optimizations & NgModules
-Deployment
-Animation
-Testing
+1. Basics
+2. Component & data bindings
+3. Directives
+4. Services & Dependency injection
+5. Routing
+6. Observables
+7. Forms
+8. Pipes
+9. Http
+10. Authentication
+11. Optimizations & NgModules
+12. Deployment
+13. Animation
+14. Testing
